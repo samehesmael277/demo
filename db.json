@@ -2,28 +2,28 @@
   "users": 
   [
     {
-      "id": 1,
-      "name": "Sameh Esmael",
-      "message": "Hi how are you",
-      "imageId": 2131165392
+      "userId": 1,
+      "userName": "Sameh Esmael",
+      "userMessage": "Hi how are you",
+      "idUserImg": 2131165392
     },
     {
-      "id": 2,
-      "name": "Ahmed Esmael",
-      "message": "Hello",
-      "imageId": 2131165392
+      "userId": 2,
+      "userName": "Ahmed Esmael",
+      "userMessage": "Hello",
+      "idUserImg": 2131165392
     },
     {
-      "id": 3,
-      "name": "Mihamed Esmael",
-      "message": "welcome",
-      "imageId": 2131165392
+      "userId": 3,
+      "userName": "Mihamed Esmael",
+      "userMessage": "welcome",
+      "idUserImg": 2131165392
     },
     {
-      "id": 4,
-      "name": "Yonis Esmael",
-      "message": "good",
-      "imageId": 2131165392
+      "userId": 4,
+      "userName": "Yonis Esmael",
+      "userMessage": "good",
+      "idUserImg": 2131165392
     }
   ]
 }
